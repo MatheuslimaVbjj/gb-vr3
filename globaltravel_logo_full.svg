@@ -1,29 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 250" role="img" aria-label="Global Travel Intercâmbios">
-  <defs>
-    <linearGradient id="gtGoldV7" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FFF4D8"/>
-      <stop offset="45%" stop-color="#E7C983"/>
-      <stop offset="100%" stop-color="#C99A43"/>
-    </linearGradient>
-    <filter id="shadowV7" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.20"/>
-    </filter>
-  </defs>
-  <g transform="translate(0,4)" filter="url(#shadowV7)">
-    <g transform="translate(380,10)">
-      <circle cx="110" cy="58" r="46" fill="rgba(255,255,255,0.03)" stroke="url(#gtGoldV7)" stroke-width="4.5"/>
-      <path d="M80 38c8-5 19-8 28-8 7 0 14 1 20 4-3 4-4 8-4 13 0 4 1 9 4 13-8-1-15-1-22 0-8 1-16 4-23 8-2-7-2-14 0-22 1-3 3-6 5-8z" fill="#FFFFFF" opacity=".98"/>
-      <path d="M119 27c10 2 18 7 24 14-1 6-5 11-10 15-6 5-12 7-19 9 2-6 2-12 0-18-2-7-6-13-11-18 5-2 10-3 16-2z" fill="#FFFFFF" opacity=".94"/>
-      <path d="M97 72c8-1 17 0 24 3 6 2 11 6 15 11-8 5-18 8-28 8-7 0-15-1-22-4 1-5 4-9 8-12 2-3 2-4 3-6z" fill="#FFFFFF" opacity=".96"/>
-      <path d="M66 66c11 11 27 18 44 19 19 2 39-4 57-18" fill="none" stroke="url(#gtGoldV7)" stroke-width="5.5" stroke-linecap="round"/>
-      <path d="M56 67c14-26 42-44 71-44 17 0 33 6 46 16" fill="none" stroke="#FFFFFF" stroke-width="4.8" stroke-linecap="round" opacity=".95"/>
-      <path d="M156 4l22 7-10 7 7 14-14-4-8 12-2-14-14-3 13-7 6-12z" fill="url(#gtGoldV7)"/>
-      <path d="M68 20c4 5 5 12 4 18" fill="none" stroke="#FFFFFF" stroke-opacity=".78" stroke-width="2.5" stroke-linecap="round"/>
-      <path d="M103 16c2 7 2 15 0 22" fill="none" stroke="#FFFFFF" stroke-opacity=".70" stroke-width="2.5" stroke-linecap="round"/>
-    </g>
-    <g transform="translate(176,126)">
-      <text x="0" y="0" fill="#FFFFFF" font-family="Cormorant Garamond, Georgia, serif" font-size="84" font-weight="700" letter-spacing="1.4">GLOBAL TRAVEL</text>
-      <text x="184" y="46" fill="#FFFFFF" fill-opacity=".92" font-family="Outfit, Arial, sans-serif" font-size="31" font-weight="500" letter-spacing="8.6">INTERCÂMBIOS</text>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 900">
+<defs><filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#000" flood-opacity=".28"/></filter></defs>
+<g filter="url(#s)">
+<circle cx="900" cy="220" r="105" fill="#D3B05F"/>
+<circle cx="900" cy="220" r="92" fill="#D3B05F"/>
+<path d="M870 175L835 195L852 225L845 245L865 260L875 235L892 225L888 205L870 175Z" fill="#0B223F"/>
+<path d="M920 180L945 185L952 208L940 215L935 240L920 275L905 250L910 225L900 210L910 192L920 180Z" fill="#0B223F"/>
+<path d="M945 200L972 208L980 230L960 240L948 225Z" fill="#0B223F"/>
+<path d="M740 255A175 125 0 0 0 1060 280" fill="none" stroke="#D3B05F" stroke-width="12" stroke-linecap="round"/>
+<path d="M752 242A168 116 0 0 0 1065 268" fill="none" stroke="#F5F8FC" stroke-width="18" stroke-linecap="round"/>
+<path d="M892 132A144 120 0 0 1 1056 154" fill="none" stroke="#F5F8FC" stroke-width="13" stroke-linecap="round"/>
+<path d="M1008 113l21-18 35-30 17 5-41 34 42 18-9 10-45-18-14 26-11-3 5-29-30 5-1-8z" fill="#F5F8FC"/>
+<path d="M1047 89L1068 72" stroke="#F0D696" stroke-width="4" stroke-linecap="round"/>
+</g>
+<text x="900" y="500" text-anchor="middle" fill="#F5F8FC" font-size="118" font-family="Georgia, 'Times New Roman', serif" font-weight="700">GLOBAL TRAVEL</text>
+<text x="900" y="640" text-anchor="middle" fill="#F0D696" font-size="54" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="8">INTERCÂMBIOS</text>
 </svg>
